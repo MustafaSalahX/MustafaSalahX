@@ -22,7 +22,7 @@
 </div>
 
 ----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaSalahX)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :man_technologist: About Me :
 I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Cairo, Egypt`.
 - I am a software developer with over 1 year of experience developing software applications. I have a strong background in object-oriented programming languages such as JavaScript and Python. I am experienced in working with a variety of frameworks and libraries to create efficient, scalable, and user-friendly applications. I am highly skilled in problem-solving and passionate about creating innovative solutions to complex challenges. I am always eager to learn new technologies and techniques and am dedicated to continuously improving my skills and staying up-to-date with the latest trends and developments in the field.
@@ -67,8 +67,8 @@ I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KipronohVincent&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)\
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KipronohVincent&theme=hacker&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaSalahX)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MustafaSalahX&theme=hacker&background=000000)](https://git.io/streak-stats)
 
 ----
 ## :writing_hand: AUTHOR:
