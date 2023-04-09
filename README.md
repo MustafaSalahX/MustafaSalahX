@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/mustafasalahx/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/kipronohvince">
+  <a href="https://twitter.com/MustafaSalahXS">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
