@@ -7,7 +7,7 @@
   <a href="https://twitter.com/MustafaSalahXS">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+  <a href="mostafamahmoud9500@gmail.com">
     <img src="https://img.shields.io/badge/Mail-hue?style=for-the-badge&logo=Mail.google&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
