@@ -1,76 +1,46 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/mustafasalahx/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/MustafaSalahXS">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mostafamahmoud9500@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-hue?style=for-the-badge&logo=Mail.google&logoColor=white" alt="Mail Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=KipronohVincent&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif" width="800" height="300"/>
-</div>
+# Mustafa Salah — Professional Portfolio
 
-----
+This is a modern, interactive, and fully responsive personal portfolio designed and built for **Mustafa Salah**, a Full-Stack Software Engineer. 
 
-### :man_technologist: About Me :
-I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Cairo, Egypt`.
-- I am a software developer with over 1 year of experience developing software applications. I have a strong background in object-oriented programming languages such as JavaScript and Python. I am experienced in working with a variety of frameworks and libraries to create efficient, scalable, and user-friendly applications. I am highly skilled in problem-solving and passionate about creating innovative solutions to complex challenges. I am always eager to learn new technologies and techniques and am dedicated to continuously improving my skills and staying up-to-date with the latest trends and developments in the field.
+The project features a futuristic, dark-tech aesthetic with a custom **Three.js** background, smooth scroll animations, and a responsive layout using pure HTML, CSS, and Vanilla JavaScript.
 
-- :seedling:  Exploring Technical Content Writing.
+## 🚀 Technologies Used
 
-- :zap: In my free time, I work on RapidAPI, solve problems on Codecademy and read tech articles.
+- **HTML5:** Semantic markup.
+- **CSS3:** Custom variables, flexbox/grid layouts, responsive media queries, glassmorphism effects.
+- **Vanilla JavaScript:** Custom cursor, Intersection Observer for fade-in animations, dynamic navbar styling, mobile menu.
+- **Three.js (r128):** 3D background featuring a floating, mouse-reactive particle field and rotating wireframe torus knot.
+- **Google Fonts:** `Space Mono` & `Syne`.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mustafasalahx/)
-## [My Portfolio](M)
+## 📁 File Structure
 
-- ## BLOGS
-## 
+```text
+.
+├── index.html    # Main HTML document
+├── style.css     # Styling and responsive design
+├── main.js       # Three.js scene, cursor logic, scroll animations
+└── README.md     # Project documentation
+```
 
----
+## 🛠️ How to Run
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SqlAlchemy"  alt="SqlAlchemy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" **alt="SSH" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line.svg" title="Apache" **alt="Apache" width="40" height="40"/>
-</div>
+This project requires absolutely no build tools or server environment to view locally. 
 
+1. Clone or download this repository.
+2. Open the `index.html` file directly in any modern web browser.
+3. Enjoy the interactive 3D background and animations!
+
+## 🌐 Deployment
+
+Since this project consists entirely of static files, it is fully ready to be deployed on **GitHub Pages**, **Vercel**, **Netlify**, or any standard static file hosting service.
+
+## 🎨 Design System
+
+- **Background:** Dark Space (`#0a0a0f`)
+- **Card Background:** Dark Gray (`#111118`) with glassmorphism effects.
+- **Accent Colors:** Neon Green (`#00f5a0`) and Electric Blue (`#00c3ff`).
+- **Typography:** `Syne` (Headings) and `Space Mono` (Body/Code).
 
 ---
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaSalahX)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MustafaSalahX&theme=hacker&background=000000)](https://git.io/streak-stats)
-
-----
-## :writing_hand: AUTHOR:
+*© 2026 Mustafa Salah — Built with Three.js*
